@@ -1,0 +1,14 @@
+{
+  "name": "review-fix-project",
+  "version": "1.0.0",
+  "description": "Project for review and fixing",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
